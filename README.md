@@ -6,6 +6,11 @@
 UniConnect adalah project MVP (Minimum Viable Product) yang dibuat untuk memvalidasi kebutuhan utama mahasiswa sesuai project charter: transaksi barang bekas antar mahasiswa, berbagi materi/catatan kuliah, serta pemesanan bantuan pindahan.
 
 ---
+## Tujuan Pembuatan UniConnect 
+Tujuan utama pembuatan UniConnect adalah untuk menyediakan sebuah platform digital terpadu yang mampu mengintegrasikan berbagai kebutuhan akademik dan non-akademik sivitas akademika dalam satu sistem yang mudah diakses. UniConnect dirancang sebagai solusi untuk meningkatkan efisiensi, kenyamanan, dan kualitas layanan kampus melalui pemanfaatan teknologi digital.
+Secara khusus, UniConnect bertujuan untuk mempermudah mahasiswa dalam mengakses informasi dan layanan kampus, seperti layanan akademik, administrasi, komunikasi, dan aktivitas pendukung lainnya, tanpa harus menggunakan banyak aplikasi yang terpisah. Dengan adanya UniConnect, proses pencarian informasi menjadi lebih cepat, terpusat, dan terstruktur.
+Selain itu, UniConnect bertujuan untuk mendorong kolaborasi dan interaksi antar sivitas akademika. Melalui fitur-fitur seperti Marketplace dan Catatan, UniConnect mendukung produktivitas mahasiswa, pengembangan kreativitas, serta kewirausahaan di lingkungan kampus.
+UniConnect juga dikembangkan untuk meningkatkan kualitas pelayanan kampus melalui fitur GoU sebagai layanan terpadu berbasis kebutuhan pengguna. Dengan sistem yang terintegrasi.
 
 ## ✨ Highlights
 - 🛒 **Marketplace**: list barang, detail barang, ajukan transaksi
